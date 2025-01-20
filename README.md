@@ -49,7 +49,7 @@ The website includes the following pages:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Cramessar/Module4
    ```
 2. Open the project folder and double-click `index.html` to view the website in your browser.
 
